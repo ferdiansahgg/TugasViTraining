@@ -7,7 +7,8 @@ ID : Quiz Nomer 1 : Algoritma Lift dengan bahasa python.
 
 EN : Quiz Number 1: Lift algorithm in python language.
 Screenshot Program : 
-![Screenshot (6)](https://user-images.githubusercontent.com/43681671/67923227-c8ffd900-fbdf-11e9-8cc6-c069d2208a50.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/43681671/67999893-99f57000-fc90-11e9-948d-8f009cfb1cb6.png)
+
 
 ID : Quiz Nomer 2 : Algoritma bilangan prima dengan bahasa python.
 
