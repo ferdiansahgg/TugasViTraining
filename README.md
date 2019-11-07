@@ -27,3 +27,10 @@ ID : Quiz Nomer 4 : Algoritma Matrix Pascal Triangle
 EN : Quiz Number 4 : Matrix Pascal Triangle Algorithm
 Screenshoot Program : 
 ![Screenshot (12)](https://user-images.githubusercontent.com/43681671/67936431-5baf7080-fbfe-11e9-8a34-48081c6ccee0.png)
+
+ID : Quiz Nomer 5 : Process Array input 
+
+EN : Quiz Number 5 : Process Array input
+
+Screenshoot Program :
+![Screenshot_20191107_140852](https://user-images.githubusercontent.com/43681671/68367493-6e7af580-0168-11ea-80be-c7b9e7fa2abe.png)
